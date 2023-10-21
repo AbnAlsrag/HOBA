@@ -1,0 +1,13 @@
+@begin(subject)
+    name: math
+    @begin(question)
+        question: something
+        @begin(answers)
+            1:
+            2:
+            3:
+            4:
+        @end
+        correct: 4
+    @end
+@end

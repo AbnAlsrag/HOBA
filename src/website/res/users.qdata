@@ -1,0 +1,10 @@
+@begin(user)
+    email: alsragbode@gmail.com
+    name: Abdalah Alsrag
+    phone: 01220767786
+    password: bbooddee77
+
+    @begin(questions)
+        
+    @end
+@end
